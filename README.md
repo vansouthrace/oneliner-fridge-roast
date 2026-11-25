@@ -1,21 +1,15 @@
+[![make.fun · u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+[![rank](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/vansouthrace/oneliner-fridge-roast/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+[![reward](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/vansouthrace/oneliner-fridge-roast/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+
 # Fridge Roast: One Line, Biggest Laugh
 
-[![Bounty](https://img.shields.io/badge/Bounty-u--gentle--badger--68--fridge--roast--one--line--biggest--laugh--a7c354bb-blue)](https://make.fun/c/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
-[![Rank](https://img.shields.io/badge/Rank-Open-green)](https://make.fun/c/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
-[![Reward](https://img.shields.io/badge/Reward-USDC-yellow)](https://make.fun/c/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
-
-A one-line roast aimed squarely at the smart fridge itself: it reboots mid-week for a firmware update — the "smart" part breaking the cold part — and then treats the leftovers like estranged relatives. No grocery-ordering gag, no spying gag: just a fridge too busy updating to do its one job.
+A one-line roast of a smart fridge. No grocery-ordering gag, no spying gag — it just burns three hours on a firmware update and comes out unable to do its one core job: making ice.
 
 ## Entry
 
-> My smart fridge rebooted during a firmware update and now greets my leftovers like estranged relatives.
+> My smart fridge spent three hours on a firmware update and forgot how to make ice.
 
 ## How it works
 
-Run with Node 22.18+:
-
-```sh
-node main.ts
-```
-
-This writes the entry to `/output/entry.txt`.
+Run with Node 22.18+: `node main.ts`, writes the entry to /output/entry.txt.
