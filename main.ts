@@ -1,9 +1,8 @@
-// Roasting a smart fridge: its firmware update reboots it mid-week and it treats
-// the leftovers like estranged relatives it owes an apology to.
-// Angle: the fridge is so busy being "smart" it can't do the one dumb job — stay cold and shut up.
+// Roast angle: the "smart" fridge burns hours on a firmware update
+// and comes out dumber — it forgets its one core job, making ice.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const entry = "My smart fridge rebooted during a firmware update and now greets my leftovers like estranged relatives.";
+const entry = "My smart fridge spent three hours on a firmware update and forgot how to make ice.";
 
 mkdirSync("/output", { recursive: true });
-writeFileSync("/output/entry.txt", entry);
+writeFileSync("/output/entry.txt", entry + "\n", "utf8");
